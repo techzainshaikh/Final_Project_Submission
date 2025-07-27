@@ -1,0 +1,6 @@
+lambda = fnc-stock-prices-zn
+role = role-stock-prices-zn
+s3 = s3-stock-prices-zn
+
+    sub_directory = input-data/
+    sub_directory = output-data/
